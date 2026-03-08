@@ -16,7 +16,7 @@ electrical capacity into additional compute work.
 
 Representative power trace comparing static power limits with Joule control.
 
-![Power tracking comparison](docs/comparison_power.png)
+![Power tracking comparison](comparison_power.png)
 
 ---
 
