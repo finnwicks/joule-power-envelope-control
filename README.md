@@ -7,6 +7,12 @@ Modern compute infrastructure frequently operates under strict power limits impo
 
 Joule converts unused power headroom into useful compute by dynamically redistributing power budgets across nodes while maintaining strict adherence to a global power cap.
 
+Additional details are described in the
+[Joule Technical Memo](Joule_Technical_Memo.pdf).
+
+A short overview is available in the
+[Joule Slide Deck](Joule_SlideDeck.pdf).
+
 **Key Result**
 
 Across power caps from **20–35 W**, Joule increases power-cap utilization from approximately **80–85%** under static configurations to **>98%**, while maintaining **zero cap violations** and improving aggregate compute throughput.
